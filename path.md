@@ -50,7 +50,15 @@ cd /Users/wanghao/desktop
 
 **~**
 
-~ 波浪号，表示的是用户主目录，它是一个相对的位置。这里说的用户指的是你当前登录的用户，比如我用 `wanghao` 用户登录到系统，在 macOS 系统上这个 `~` 表示的路径应该就是 `/Users/wanghao` 。在 Linux 系统上，这个路径应该是 `/home/wanghao`。在 Windows 上，这个路径会是 `C:\Users\wanghao` 。
+**~** （波浪号），表示的是用户主目录，它是一个相对的位置。这里说的用户指的是你当前登录的用户，比如我用 `wanghao` 用户登录到系统，在 macOS 系统上这个 `~` 表示的路径应该就是 `/Users/wanghao` 。在 Linux 系统上，这个路径应该是 `/home/wanghao`。在 Windows 上，这个路径会是 `C:\Users\wanghao` 。
+
+**.**
+
+**.** （一个点），表示当前目录。比如 `./vendor/bin` ，表示当前目录下面的 `vendor` 里的 `bin` 所在的位置。
+
+**..**
+
+**..** （两个点），表示上一级目录。比如 `../vendor/bin`，表示当前目录的上一级目录里面的 `vendor` 下面的 `bin` 所在的位置。
 
 
 
