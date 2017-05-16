@@ -20,5 +20,9 @@ C:\Users\wanghao\desktop
 
 上面都表示的是 desktop 这个东西的路径。在 macOS / Linux 上，这个 `desktop` 是在根目录下的 `Users` 目录下的 `wanghao` 这个目录里面。Windows 上的这个 desktop 是在 C 盘下的 `Users` 目录下的 `wanghao` 这个目录里面。
 
+## 相对
+
+文件与目录的位置可以表示相对的形式表示。如果路径里面不包含系统的根（root），那这个路径就属于相对路径 。这个根在 macOS / Linux 上指的是路径最前面的 `/` ，Windows 上指的是路径最前面的盘符，比如 `C:\` 或 `D:\` 。
+
 
 
