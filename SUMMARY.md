@@ -3,5 +3,5 @@
 * [介绍](README.md)
 * [命令行界面](cli.md)
 * [配置](configuration.md)
-* [工作目录](gong-zuo-mu-lu.md)
+* [工作目录](working-directory.md)
 
