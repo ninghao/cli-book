@@ -4,4 +4,5 @@
 * [命令行界面](cli.md)
 * [配置](configuration.md)
 * [工作目录](working-directory.md)
+* [路径](lu-jing.md)
 
