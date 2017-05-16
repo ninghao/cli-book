@@ -40,13 +40,13 @@ cd desktop
 pwd
 ```
 
-返回：
+macOS / Linux：
 
 ```
 /Users/wanghao/desktop
 ```
 
-Windows 返回的应该像这样：
+Windows ：
 
 ```
 C:\Users\wanghao\desktop
