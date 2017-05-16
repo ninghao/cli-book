@@ -46,9 +46,11 @@ pwd
 /Users/wanghao/desktop
 ```
 
+Windows 返回的应该像这样：
 
-
-
+```
+C:\Users\wanghao\desktop
+```
 
 
 
