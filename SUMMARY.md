@@ -23,3 +23,7 @@
 * [查看文件](view-files.md)
 * [删除](rm.md)
 
+## 附录
+
+* [相关资源](fu-lu/xiang-guan-zi-yuan.md)
+
