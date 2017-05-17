@@ -29,5 +29,5 @@ source ~/.bash_profile
 
 ## Windows
 
-cmder 的配置文件是在 cmder 所在目录下的 config/user-profile.sh 。
+cmder 的配置文件是在 cmder 所在目录下的 `config/user-profile.sh` 。
 
