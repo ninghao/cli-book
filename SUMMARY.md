@@ -6,4 +6,5 @@
 * [工作目录](working-directory.md)
 * [路径](path.md)
 * [帮助](help.md)
+* [列出](lie-chu.md)
 
