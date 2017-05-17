@@ -19,6 +19,6 @@
 * [创建](create.md)
 * [重命名与移动](mv.md)
 * [编辑文件](vi.md)
-* [复制](fu-zhi.md)
+* [复制](cp.md)
 * [删除](rm.md)
 
