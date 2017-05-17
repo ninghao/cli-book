@@ -28,3 +28,5 @@ cmder 有几种模式，cmd，Powershell，Bash，mintty。还有几种对应的
 
 ctrl + space / command + space，搜索 terminal，可以找到并打开终端。
 
+相关视频：[终端 terminal](https://ninghao.net/video/4556?a=51729)
+
