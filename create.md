@@ -8,9 +8,9 @@
 cd ~
 ```
 
-## **目录**
+## mkdir
 
-创建一个新的目录用的是 mkdir 。
+mkdir，可以创建新的目录。
 
 ```
 mkdir awesome-project
