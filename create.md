@@ -1,5 +1,7 @@
 # 创建
 
+mkdir 可以创建新的目录，touch 可以创建空白的文件。
+
 先进入到某个地方，比如当前登录用户的桌面上：
 
 ```
@@ -20,7 +22,7 @@ mkdir awesome-project
 ls
 ```
 
-你会看到创建的目录 awesome-project。如果想同时创建几个层级的目录，需要用一个` -p` 参数。像这样：
+你会看到创建的目录 awesome-project。如果想同时创建几个层级的目录，需要用一个`-p` 参数。像这样：
 
 ```
 mkdir -p awesome-project/app/styles
