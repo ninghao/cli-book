@@ -19,5 +19,5 @@
 * [创建](create.md)
 * [重命名与移动](mv.md)
 * [编辑文件](vi.md)
-* [删除](shan-chu.md)
+* [删除](rm.md)
 
