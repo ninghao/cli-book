@@ -2,6 +2,10 @@
 
 不用配置也能直接在命令行界面下工作，但有时候也需要去做点配置。先了解一下怎么配置。
 
+## Windows
+
+cmder 的配置文件是在 cmder 所在目录下的 `config/user-profile.sh` 。配置参考文档：[https://github.com/cmderdev/cmder](https://github.com/cmderdev/cmde)
+
 ## **macOS**
 
 macOS 与 Linux 都属于 UNIX 类型的操作系统，所以它们有一些共通点。影响命令行界面的配置文件一般叫 `.bash_profile`，每个用户的主目录下面都有一个这样的文件，也就是不同的用户可以使用不同的配置文件。
@@ -27,7 +31,5 @@ PS1="\n$PS1"
 source ~/.bash_profile
 ```
 
-## Windows
 
-cmder 的配置文件是在 cmder 所在目录下的 `config/user-profile.sh` 。配置参考文档：[https://github.com/cmderdev/cmder](https://github.com/cmderdev/cmde)
 
