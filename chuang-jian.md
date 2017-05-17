@@ -20,7 +20,7 @@ mkdir awesome-project
 ls
 ```
 
-你会看到创建的目录 awesome-project。如果想同时创建几个层级的目录，需要用一个 -p 参数。像这样：
+你会看到创建的目录 awesome-project。如果想同时创建几个层级的目录，需要用一个` -p` 参数。像这样：
 
 ```
 mkdir -p awesome-project/app/styles
