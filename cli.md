@@ -18,7 +18,7 @@ cmder 有几种模式，cmd，Powershell，Bash，mintty。还有几种对应的
 
 打开 cmder 以后，窗口右下角有个绿色的 + 号图标，点开它可以选择创建不同模式的 cmder 标签。比如可以是 Powershel - Powershell as Admin，用管理员身份运行的 Poweshell 模式。也可以是 bash - mintty as Admin，用管理员身份运行的 mintty 。
 
-做本身练习的时候，我建议您创建两个 cmder 标签，一个用 Poweshell as Admin 这种模式，另一个用 mintty as Admin 模式。你可以分别在这两种模式下去执行书中的任务，然后观察这两种模式的区别。
+> 做本书练习的时候，我建议您创建两个 cmder 标签，一个用 Poweshell as Admin 这种模式，另一个用 mintty as Admin 模式。你可以分别在这两种模式下去执行书中的任务，然后观察这两种模式的区别。
 
 ## **macOS**
 
