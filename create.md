@@ -13,6 +13,14 @@ cd ~
 **mkdir**（make directory**）**，可以创建新的目录。
 
 ```
+mkdir 要创建的目录
+```
+
+**练习：创建目录**
+
+创建一个名字是 awesome-project 的目录，执行：
+
+```
 mkdir awesome-project
 ```
 
