@@ -10,7 +10,7 @@ cd ~
 
 ## mkdir
 
-mkdir，可以创建新的目录。
+**mkdir**（make directory**）**，可以创建新的目录。
 
 ```
 mkdir awesome-project
@@ -30,9 +30,9 @@ mkdir -p awesome-project/app/styles
 
 这样会在 `awesome-project` 创建一个 `app` 目录，在 `app` 里面又创建了一个 `styles` 目录。
 
-## **文件**
+## touch
 
-创建一个空白的文件可以使用 touch 命令：
+创建一个空白的文件可以使用 **touch** 命令：
 
 ```
 touch README.md
