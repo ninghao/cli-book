@@ -17,7 +17,7 @@
 
 * [列出](ls.md)
 * [创建](create.md)
-* [重命名与移动](zhong-ming-ming-yu-yi-dong.md)
+* [重命名与移动](mv.md)
 * [编辑文件](bian-ji-wen-jian.md)
 * [删除](shan-chu.md)
 
