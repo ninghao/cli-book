@@ -28,7 +28,7 @@ mkdir -p awesome-project/app/styles
 
 这样会在 `awesome-project` 创建一个 `app` 目录，在 `app` 里面又创建了一个 `styles` 目录。
 
-**文件**
+## **文件**
 
 创建一个空白的文件可以使用 touch 命令：
 
