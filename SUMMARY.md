@@ -17,5 +17,5 @@
 
 * [列出](ls.md)
 * [创建](create.md)
-* [编辑](bian-ji.md)
+* [编辑](edit.md)
 
