@@ -16,6 +16,6 @@
 ## 文件与目录
 
 * [列出](ls.md)
-* [创建](chuang-jian.md)
+* [创建](create.md)
 * [编辑](bian-ji.md)
 
