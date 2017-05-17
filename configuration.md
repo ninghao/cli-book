@@ -31,5 +31,5 @@ PS1="\n$PS1"
 source ~/.bash_profile
 ```
 
-
+相关视频：[终端的提示符](https://ninghao.net/video/4557?a=51729)
 
