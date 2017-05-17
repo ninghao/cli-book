@@ -17,5 +17,6 @@
 
 * [列出](ls.md)
 * [创建](create.md)
+* [重命名与移动](zhong-ming-ming-yu-yi-dong.md)
 * [编辑](edit.md)
 
