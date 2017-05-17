@@ -25,5 +25,5 @@
 
 ## 附录
 
-* [相关资源](fu-lu/xiang-guan-zi-yuan.md)
+* [相关资源](resources.md)
 
