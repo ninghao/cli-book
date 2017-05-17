@@ -40,7 +40,15 @@ mkdir -p awesome-project/app/styles
 
 ## touch
 
-创建一个空白的文件可以使用 **touch** 命令：
+创建一个空白的文件可以使用 **touch** 命令。
+
+```
+touch 文件
+```
+
+**练习：创建空白文件**
+
+创建一个名字是 README.md 的空白文件。执行：
 
 ```
 touch README.md
