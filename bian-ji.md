@@ -46,7 +46,7 @@ vi ninghao-project/README.md
 rm ninghao-project/README.md
 ```
 
-要删除一个目录里包含的所有内容，要加上 `r` 选项，想不出现确认提示，再加一个 `f` 选项。
+上面的命令会删除掉 `ninghao-project` 目录下的 `README.md` 这个文件。要删除一个目录里包含的所有内容，要加上 `r` 选项，想不出现确认提示，再加一个 `f` 选项。
 
 ```
 rm -rf ninghao-project
