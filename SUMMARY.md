@@ -4,7 +4,6 @@
 
 * [介绍](README.md)
 * [任务](task.md)
-* [编辑文件](bian-ji-wen-jian.md)
 
 ## 命令行界面
 
@@ -19,5 +18,7 @@
 * [列出](ls.md)
 * [创建](create.md)
 * [重命名与移动](zhong-ming-ming-yu-yi-dong.md)
+* [编辑文件](bian-ji-wen-jian.md)
 * [编辑](edit.md)
+* [删除](shan-chu.md)
 
