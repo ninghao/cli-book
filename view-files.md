@@ -34,7 +34,7 @@ tail 要查看的文件
 
 **练习：输出文件的最后一小部分**
 
-输出 ninghao-project/README.md 这个文件内容里的最后一小部分。执行：
+输出 ninghao-project/README.md 这个文件内容里的最后一小部分，你可以先编辑一下这个文件，再往里面多添加点内容。然后执行：
 
 ```
 tail ninghao-project/README.md
