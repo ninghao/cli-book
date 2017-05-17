@@ -20,6 +20,8 @@ cmder 有几种模式，cmd，Powershell，Bash，mintty。还有几种对应的
 
 > 做本书练习的时候，我建议您创建两个 cmder 标签，一个用 Poweshell as Admin 这种模式，另一个用 mintty as Admin 模式。你可以分别在这两种模式下去执行书中的任务，然后观察这两种模式的区别。
 
+相关视频：[cmder](https://ninghao.net/video/4601?a=51729)
+
 ## **macOS**
 
 可以使用系统自带的 “**终端**”，英文名是 “Terminal”。也可以去下载安装 iTerm，它可以替代终端。iTerm 比终端更强大，不过你得学会使用它，还得去配置。一开始我们只需要在命令行下执行很简单的任务，所以使用系统自带的终端也就足够了。
