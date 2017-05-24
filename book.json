@@ -1,5 +1,13 @@
 {
     "styles": {
         "website": "styles/website.css"
+    },
+    "plugins": ["piwik"],
+    "pluginsConfig": {
+        "piwik": {
+            "URL": "https://analytics.ninghao.net",
+            "siteId": 5
+        }
     }
+    
 }
